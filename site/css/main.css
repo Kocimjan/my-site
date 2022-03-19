@@ -1,0 +1,21 @@
+body{
+	background-color: antiquewhite;
+    margin-left: 4%;
+	margin-right: 4%;
+	border: 2px solid black;
+	padding: 10px 10px 10px 10px;
+	font-family: sans-serif;
+}
+h1,h2 {
+	 font-family: sans-serif;
+	 color: #111111;
+	 border-bottom: 1px solid black;	 
+}
+a.qqq { text-decoration: none; } 
+p { color: maroon; }
+img {
+	width: 120px;
+}
+.opi {
+	margin-left: 50px;
+}
